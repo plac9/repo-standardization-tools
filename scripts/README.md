@@ -1,4 +1,4 @@
-# . - Utility Scripts
+# repo-standardization-tools - Utility Scripts
 
 This directory contains utility scripts organized by purpose.
 

@@ -1,4 +1,4 @@
-# . - Documentation Index
+# repo-standardization-tools - Documentation Index
 
 ## Getting Started
 - **[Getting Started](GETTING_STARTED.md)** - Setup and first steps
